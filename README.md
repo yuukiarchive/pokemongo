@@ -1,4 +1,4 @@
-# List of yuuki's Pokemon in Pokemon Go
+# yuuki's Pokemon in Pokemon Go
 
 [![](https://github.com/user-attachments/assets/9035d589-c07b-4722-bec9-b0da805ec49e)](https://www.pokebattler.com/profiles/1124360)
 
